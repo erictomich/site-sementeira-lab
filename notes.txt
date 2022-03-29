@@ -1,0 +1,7 @@
+colors: 
+
+#39c1af
+#1c6c6c
+#fc4f66
+#ffb43b
+#33333a
